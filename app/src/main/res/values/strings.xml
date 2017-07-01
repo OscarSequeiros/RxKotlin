@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RxKotlin</string>
+
+    <string name = "login_title">U&#160;N&#160;I&#160;V&#160;E&#160;R&#160;S&#160;E</string>
+
+    <string name = "login_hint_user">User</string>
+    <string name = "login_hint_passw">Password</string>
+    <string name = "login_btn_sign_in">SIGN IN</string>
+
+</resources>
